@@ -54,7 +54,7 @@ body {
 .section1 {
     background-color: #2e2f42;
 }
-.h1 {
+.mainh1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -75,7 +75,7 @@ body {
     background-color: #404BBF;
     cursor: pointer;
 }
-.h2 {
+.mainh3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
