@@ -26,6 +26,40 @@ body {
 .headstudio:focus {
     color:#404bbf;
 }
+.headstudio {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.headstudio:hover,
+.headstudio:focus {
+    color:#404bbf;
+}
+.headport {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.headport:hover,
+.headport:focus {
+    color: #404bbf;
+}
+.headcont {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.headcont:hover,
+.headcont:focus {
+    color: #404bbf;
+}
 .add {
     font-style: normal;
 }
@@ -87,8 +121,7 @@ body {
 
 
 
-// <uniquifier>: Use a uniquifier for the class name
-// <weight>: Use a value from 100 to 900
+
 
 .raleway-<uniquifier> {
     font-family: "Raleway", sans-serif;
